@@ -5,7 +5,7 @@
 create a DB with name "calculations"
 ```
 
-## Migrtate tables
+## Migrate tables
 ```
 run command: php artisan migrate
 ```
